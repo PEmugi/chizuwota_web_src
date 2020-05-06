@@ -3,7 +3,7 @@ name = CHIZUWOTA
 url_style = absoulte
 
 [servers.ghpages]
-target = ghpages://PEmugi/pemugi.github.io?cname=chizuwota.net
+target = ghpages+https://PEmugi/pemugi.github.io?cname=chizuwota.net
 
 [theme_settings]
 githubID = PEmugi

@@ -1,0 +1,16 @@
+[project]
+name = CHIZUWOTA
+url_style = absoulte
+
+[servers.ghpages]
+target = ghpages://PEmugi/pemugi.github.io?cname=chizuwota.net
+
+[theme_settings]
+githubID = PEmugi
+twitterID = PEmugi2
+linkedInID = shimpei-matsuura-26974441
+name = PEmugi
+headerusername = PEmugi
+headerhostname = chizuwota.net
+about = Map Geek, Software Developer, Data and Backend Engineer. GIS / IoT / Python
+profilepicture = static/img/pemugi.png

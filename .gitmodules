@@ -1,0 +1,3 @@
+[submodule "themes/lektor-theme-nix"]
+	path = themes/lektor-theme-nix
+	url = https://github.com/rlaverde/lektor-theme-nix.git
